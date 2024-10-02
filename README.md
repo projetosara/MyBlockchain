@@ -5,7 +5,7 @@ Artigo "BLOCKCHAIN E SEGURANÇA DA INFORMAÇÃO - FORTRESS OF SECURITY" limk de 
 # Integrantes e Professor 
 - Gabriel Alves:
 - Gustavo Pimentel:
-- Nicole Pontes:
+- Nicole Pontes:https://www.linkedin.com/in/nicole-pontes-03816a261/
 - Sara Beatriz: https://www.linkedin.com/in/sara-beatriz-porc%C3%A9-vieira-basso-95a107326/
 - Bruno Zolotareff: https://www.linkedin.com/in/bzsantos/
 
