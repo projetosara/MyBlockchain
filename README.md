@@ -4,7 +4,7 @@ Atividade no qual se deve encontrar um artigo cientifico sobre Blockchain e faze
 Artigo "BLOCKCHAIN E SEGURANÇA DA INFORMAÇÃO - FORTRESS OF SECURITY" limk de acesso: https://sumare.edu.br/revista-academica/artigos/ti/TI_Blockchain%20e%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o.pdf
 # Integrantes e Professor 
 - Gabriel Alves:
-- Gustavo Pimentel:
+- Gustavo Pimentel:https://www.linkedin.com/in/gustavo-costa-9a2a33234/
 - Nicole Pontes:https://www.linkedin.com/in/nicole-pontes-03816a261/
 - Sara Beatriz: https://www.linkedin.com/in/sara-beatriz-porc%C3%A9-vieira-basso-95a107326/
 - Bruno Zolotareff: https://www.linkedin.com/in/bzsantos/
